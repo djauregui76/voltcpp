@@ -1,0 +1,4 @@
+CREATE TABLE PARTITIONSET(
+PARTITION_ID int not null,
+PARTITION_KEY int not null,
+);

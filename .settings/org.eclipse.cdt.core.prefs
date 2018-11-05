@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1827523650/LD_LIBRARY_PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1827523650/LD_LIBRARY_PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1827523650/LD_LIBRARY_PATH/value=$LD_LIBRARY_PATH\:/usr/local/lib\:/root/voltdb-client-cpp-master/voltdb-client-cpp-x86_64-7.1
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1827523650/append=true
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1827523650/appendContributed=true
+environment/project/cdt.managedbuild.config.gnu.exe.release.200677768/LD_LIBRARY_PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.exe.release.200677768/LD_LIBRARY_PATH/operation=append
+environment/project/cdt.managedbuild.config.gnu.exe.release.200677768/LD_LIBRARY_PATH/value=$LD_LIBRARY_PATH\:/usr/local/lib
+environment/project/cdt.managedbuild.config.gnu.exe.release.200677768/append=true
+environment/project/cdt.managedbuild.config.gnu.exe.release.200677768/appendContributed=true
