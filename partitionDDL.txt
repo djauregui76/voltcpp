@@ -1,4 +1,8 @@
 CREATE TABLE PARTITIONSET(
-PARTITION_ID int not null,
+PARTITION_ID int primary key not null,
 PARTITION_KEY int not null,
 );
+
+
+load classes  partition.jar;
+CREATE PROCEDURE FROM CLASS org.voltdb.partitions.partitionSet;
